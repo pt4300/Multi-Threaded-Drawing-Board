@@ -80,9 +80,6 @@ The Multi-Threaded Drawing Board is a real-time collaborative whiteboard system,
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
 * jdk 17 - preferred Eclipse Temurin 17.0.6
